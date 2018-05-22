@@ -1,11 +1,11 @@
   {
  
-  "short_name": "simpsons memory game",
+  "short_name": "Thors memory game",
   "name": "Create React App Sample",
   "icons": [
    
     {
-      "src": "favicon.ico",
+      "src": "lokihelmet.jpeg",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon",
     }
